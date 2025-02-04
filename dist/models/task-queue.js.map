@@ -1,0 +1,1 @@
+{"version":3,"file":"task-queue.js","sourceRoot":"","sources":["../../src/models/task-queue.ts"],"names":[],"mappings":";;AAAA,uCAAyC;AAQzC,MAAM,UAAU,GAAG,IAAI,iBAAM,CAAa;IACxC,IAAI,EAAE,EAAE,IAAI,EAAE,MAAM,EAAE,QAAQ,EAAE,IAAI,EAAE;IACtC,OAAO,EAAE,MAAM;IACf,KAAK,EAAE,MAAM;CACd,CAAC,CAAC;AAEH,MAAM,SAAS,GAAG,IAAA,gBAAK,EAAa,WAAW,EAAE,UAAU,CAAC,CAAC;AAE7D,kBAAe,SAAS,CAAC"}
